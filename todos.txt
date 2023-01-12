@@ -1,0 +1,3 @@
+new player
+add a new member
+clean the bag
